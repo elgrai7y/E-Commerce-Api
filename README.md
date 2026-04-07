@@ -1,3 +1,5 @@
+Postman video Link: https://drive.google.com/file/d/1990z1dGTKiL1Gj4N6SqH0JiCDohk9JC6/view?usp=sharing
+
 E-Commerce API Project
 This repository contains a robust backend system for an E-Commerce platform, built with a focus on clean architecture, scalability, and modern design patterns. The API facilitates core e-commerce functionalities including product discovery, cart management, and secure order processing.
 
